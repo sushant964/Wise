@@ -1,0 +1,6 @@
+{
+  "name": "Borderless Practice",
+  "description": "A polished, responsive fintech landing page and interactive currency converter inspired by modern global money management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
